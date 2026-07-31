@@ -1,5 +1,29 @@
 # 💫 About Me:
-*👋 Hey there, I'm Zufra Jahan!*  <br>🌟 A passionate aspiring developer from *Pakistan* 🇵🇰, currently pursuing my *Bachelor’s Degree in Programming* 🎓. I’m on a mission to turn ideas into digital reality!  <br><br>- *💻 I’m currently working on:*  <br>  Building my portfolio website 🖥 and working on exciting projects for my degree.  <br><br>- *🤝 I’m looking to collaborate on:*  <br>  Innovative web development projects 🚀, open-source contributions, or anything that challenges my coding skills!  <br><br>- *🆘 I’m looking for help with:*  <br>  Mastering backend development 🛠, databases, and advanced programming concepts.  <br><br>- *📚 I’m currently learning:*  <br>  Web development (HTML, CSS, JavaScript) 🌐 and exploring frameworks like React.js and Node.js.  <br><br>- *❓ Ask me about:*  <br>  My favorite food spots 🍜, travel adventures ✈, or how I solve coding problems 💡!  <br><br>- *🎉 Fun fact:*  <br>  I’m a huge foodie 🍕🍩 who loves exploring new cuisines, and I dream of traveling the world 🌍 while working remotely as a developer.  <br><br>*Let’s connect and build something amazing together!* 🚀✨  <br>
+### 💫 About Me
+
+👋 Hi, I'm Zufra Jahan!
+
+🌟 A Software Engineering graduate from Pakistan 🇵🇰, focused on frontend development, UI/UX design, and applied cybersecurity. I like turning ideas into things that actually run, end to end.
+
+- 💻 **Currently working on:**
+  Building out my project portfolio and applying to entry-level Software Engineering, Frontend Developer, and Cybersecurity roles.
+
+- 🤝 **Looking to collaborate on:**
+  Web development projects, open-source contributions, or anything that pushes my skills further.
+
+- 🌱 **Currently learning:**
+  Deepening my React.js skills and exploring backend development, databases, and applied security concepts.
+
+- 💬 **Ask me about:**
+  Frontend development, UI/UX design, or cybersecurity fundamentals.
+
+- 📫 **Reach me:**
+  jahan.zufra2001@gmail.com | [LinkedIn](https://www.linkedin.com/in/zufra-jahan-ba3b9829a)
+
+🎉 Outside of code: I love exploring new food spots and dream of working remotely while traveling.
+
+### 🛠 Tech Stack
+`Python` `JavaScript (ES6+)` `Java` `C++` `C#` `SQL` `ReactJS` `HTML5` `CSS3` `Flask` `Streamlit` `MySQL` `Git`  <br>
 
 
 ## 🌐 Socials:
